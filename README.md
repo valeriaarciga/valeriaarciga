@@ -21,10 +21,9 @@
 I build models that turn data into decisions: **where** to open a store, **which** depots and routes to use, **how** to plant a hillside, and **what actually works** when a bank changes how it collects a debt.
 
 - 🔬 **Research** in operations research and spatial optimization with Dr. Fernando Elizalde Ramírez (Tec de Monterrey): location–routing, retail site selection, multi-objective stochastic optimization for reforestation, and school timetabling.
-- 🏦 **Risk Models Intern** applying causal inference, machine learning and prescriptive AI to credit decisions.
-- 🥤 Previously **data science intern**.
+- Experience as **Risk Models Intern** applying causal inference, machine learning and prescriptive AI to credit decisions and previously **Data Science Intern** at logistics and sales decisions.
 
-## 🏆 Highlights
+## 🏆 Recent Highlights
 
 - 🥇 **1st place, Undergraduate category**, SMIO–Hexaly Location Routing Challenge, Monterrey 2026 (team *Más óptimo*).
 - 📘 **Springer CCIS chapter:** *Retail Location Optimization: A Data-Driven Approach Using GIS and Mathematical Programming* — [doi:10.1007/978-3-032-37444-8_11](https://doi.org/10.1007/978-3-032-37444-8_11)
@@ -50,6 +49,6 @@ I build models that turn data into decisions: **where** to open a store, **which
 
 ## 📫 Let's talk
 
-Open to research collaborations and international research internships in optimization and data science.
+Open to research collaborations, internships and international research roles in optimization and data science.
 
 [LinkedIn](https://www.linkedin.com/in/valeria-arciga) · [ORCID](https://orcid.org/0009-0004-0740-0231)
